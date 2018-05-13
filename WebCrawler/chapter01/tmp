@@ -1,0 +1,9 @@
+文章url:https://mp.weixin.qq.com/s/AXr8BjR_tU-E9YBo-mLVlg
+
+http://music.163.com/#/discover/playlist
+
+Selenium:一个强大的网络数据采集工具，其最初是为网站自动化测试而开发的
+
+PhantomJs:一个headless浏览器，它会把网站加载到内存并执行页面上的JavaScript,但是它不会向用户展示网页的图形界面
+
+Selenium+PhantomJs构成一个非常强大的网络爬虫，可以处理cookie,JavaScript,header,以及任何你需要做的事情
