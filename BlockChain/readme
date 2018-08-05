@@ -1,0 +1,24 @@
+
+#参考文章：《想学习区块链？那就用 Python 构建一个》
+     url：https://linux.cn/article-9882-1.html
+
+
+#区块示例
+
+block = {
+    'index': 1,
+    'timestamp': 1506057125.900785,
+    'transactions': [
+        {
+            'sender': "8527147fe1f5426f9dd545de4b27ee00",
+            'recipient': "a77f5cdfa2934df3954a5c7c7da5df1f",
+            'amount': 5,
+        }
+    ],
+    'proof': 324984774000,
+    'previous_hash': "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
+}
+
+
+区块链背后的核心思想：这样做有意义吗？如果没有，就让时间来埋葬它吧
+
